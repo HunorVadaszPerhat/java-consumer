@@ -4,4 +4,4 @@
 * accept:
     * performs operation on the given argument
     * void accept(T t)
-    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/predicate/predicate_test)
+    *  [link](https://github.com/HunorVadaszPerhat/java-consumer/tree/main/consumer/consumer_accept)
