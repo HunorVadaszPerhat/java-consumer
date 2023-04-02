@@ -1,4 +1,4 @@
-# JAVA consumer
+# JAVA Consumer
 
 ## Consumer
 * accept:
